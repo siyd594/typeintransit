@@ -1,0 +1,17 @@
+
+body {
+  background-color: lavender;
+}
+
+h1 {
+	color: black;
+}
+
+#grad {
+  background-image: linear-gradient(to bottom right, green, yellow);
+}
+
+video {
+  height: 400px;
+  max-width: 70%;
+}
